@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Curiosity, put to work.</title>
-  <desc id="desc">Yannic Hanekamp: entrepreneurship and agentic AI, in the cream, ink and red palette of yannic.nl.</desc>
+  <title id="title">Product Lead. Researcher. Tinkerer.</title>
+  <desc id="desc">Yannic Hanekamp: Product Lead. Researcher. Tinkerer. In the cream, ink and red palette of yannic.nl.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f0e6d1"/>
@@ -25,8 +25,7 @@
   <circle cx="1152" cy="62" r="6" fill="#b5302d"/>
   <g font-family="Georgia, 'Times New Roman', serif">
     <text x="58" y="60" font-family="'Courier New', monospace" font-size="14" letter-spacing="2.6" fill="#46423a">YANNIC HANEKAMP</text>
-    <text x="54" y="139" font-size="61" font-weight="400" letter-spacing="-1.8" fill="#1c1a16">Curiosity, put to <tspan font-style="italic" fill="#b5302d">work.</tspan></text>
-    <text x="58" y="188" font-size="23" fill="#46423a">Entrepreneurship. Agentic AI. Building what works.</text>
-    <rect x="58" y="225" width="46" height="2" fill="#b5302d"/>
+    <text x="54" y="154" font-size="52" font-weight="400" letter-spacing="-1.4" fill="#1c1a16">Product Lead. Researcher. <tspan font-style="italic" fill="#b5302d">Tinkerer.</tspan></text>
+    <rect x="58" y="204" width="46" height="2" fill="#b5302d"/>
   </g>
 </svg>

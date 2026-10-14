@@ -1,14 +1,10 @@
-![Yannic Hanekamp. Curiosity, put to work. Entrepreneurship and agentic AI.](assets/curiosity.svg)
+![Yannic Hanekamp. Product Lead. Researcher. Tinkerer.](assets/curiosity.svg)
 
 **I help organisations put agentic AI into practice.**
 
 I work hands-on with teams and alongside leadership to explore what is possible, build useful tools and make them work at scale.
 
-## From building a company to putting AI into practice
-
-I co-founded a tech startup and, as CEO, built an international team of **15**, scaling our product to **thousands of paying users**.
-
-Today, I bring that experience to organisations working with agentic AI: connecting experimentation with the practical work of building, adopting and scaling something useful.
+[![Connect on LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/yannic-hanekamp)
 
 ## Selected projects
 
