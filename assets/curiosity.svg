@@ -1,31 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Curiosity, put to work.</title>
-  <desc id="desc">Medical research, entrepreneurship and agentic AI, connected by a path of exploration.</desc>
+  <desc id="desc">Yannic Hanekamp: entrepreneurship and agentic AI, in the cream, ink and red palette of yannic.nl.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#10242c"/>
-      <stop offset="1" stop-color="#153b40"/>
+      <stop offset="0" stop-color="#f0e6d1"/>
+      <stop offset="1" stop-color="#e7dabe"/>
     </linearGradient>
     <linearGradient id="path" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#60b5a5"/>
-      <stop offset="1" stop-color="#b2e4c5"/>
+      <stop offset="0" stop-color="#b5302d"/>
+      <stop offset="1" stop-color="#8d211f"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="280" rx="20" fill="url(#background)"/>
-  <circle cx="1110" cy="35" r="205" fill="#a6e2c4" opacity="0.035"/>
-  <circle cx="1110" cy="35" r="145" fill="none" stroke="#a6e2c4" opacity="0.10"/>
-  <circle cx="1110" cy="35" r="95" fill="none" stroke="#a6e2c4" opacity="0.10"/>
-  <path d="M845 224 C895 224 884 160 935 160 S994 194 1040 128 S1104 116 1152 62" fill="none" stroke="url(#path)" stroke-width="3"/>
-  <g stroke="#96d5bb" stroke-width="2" fill="#17383e">
+  <rect width="1200" height="280" rx="12" fill="url(#background)"/>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="11.5" fill="none" stroke="#847c6c" stroke-opacity="0.25"/>
+  <circle cx="1110" cy="35" r="205" fill="#f5edda" opacity="0.35"/>
+  <circle cx="1110" cy="35" r="145" fill="none" stroke="#847c6c" opacity="0.18"/>
+  <circle cx="1110" cy="35" r="95" fill="none" stroke="#847c6c" opacity="0.18"/>
+  <path d="M845 224 C895 224 884 160 935 160 S994 194 1040 128 S1104 116 1152 62" fill="none" stroke="url(#path)" stroke-width="2.5"/>
+  <g stroke="#b5302d" stroke-width="2" fill="#f0e6d1">
     <circle cx="845" cy="224" r="6"/>
     <circle cx="935" cy="160" r="6"/>
     <circle cx="1040" cy="128" r="6"/>
   </g>
-  <circle cx="1152" cy="62" r="7" fill="#b2e4c5"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="58" y="62" font-size="15" font-weight="600" letter-spacing="3.2" fill="#91cbb9">EXPLORE / BUILD / SCALE</text>
-    <text x="54" y="139" font-size="60" font-weight="700" letter-spacing="-1.8" fill="#f3f8f4">Curiosity, put to work.</text>
-    <text x="58" y="190" font-size="23" fill="#c4d8d3">Medical research. Entrepreneurship. Agentic AI.</text>
-    <rect x="58" y="226" width="46" height="3" rx="1.5" fill="#91cbb9"/>
+  <circle cx="1152" cy="62" r="6" fill="#b5302d"/>
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="58" y="60" font-family="'Courier New', monospace" font-size="14" letter-spacing="2.6" fill="#46423a">YANNIC HANEKAMP</text>
+    <text x="54" y="139" font-size="61" font-weight="400" letter-spacing="-1.8" fill="#1c1a16">Curiosity, put to <tspan font-style="italic" fill="#b5302d">work.</tspan></text>
+    <text x="58" y="188" font-size="23" fill="#46423a">Entrepreneurship. Agentic AI. Building what works.</text>
+    <rect x="58" y="225" width="46" height="2" fill="#b5302d"/>
   </g>
 </svg>
